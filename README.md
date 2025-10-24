@@ -85,9 +85,8 @@ A matrix visualization will show the selected metric across ad types and possibl
 Insight: Ads are performing strongly in visibility and engagement, but actual purchase efficiency is weak: need to optimize targeting/landing pages.
 • High CTR (11.76%) and Engagement Rate (13.56%) → clearly indicate that the ad creatives, messaging, and targeting at the top of the funnel are very effective. People are interested enough to click, like, share, or comment.
 • Low Purchase Rate (0.61%) and only 1.3K conversions out of 216K impressions → shows a sharp drop-off in the lower funnel. This is a classic case of "awareness and interest" being strong but "action (purchase)" being weak.
-Data Tutorials YT Channel: http://www.youtube.com/@datatutorials1 LinkedIn: click here to follow
-Developed by: Swapnjeet S (Lead Data Analyst, 10.5 yrs Exp.) My website: https://topmate.io/data_tutorials
-Engagement Breakdown
+
+***Engagement Breakdown***
 
 **• By Gender (Donut Chart)**
 o Female: 13K (43%)
@@ -108,9 +107,8 @@ o Steady engagement shows ads maintain attention.
 o Peaks around late afternoon & evening (~15–20 hours).
 o Lowest engagement early morning (~0–5 hours).
 Insight: Schedule ad delivery during afternoons & evenings for maximum impact.
-Data Tutorials YT Channel: http://www.youtube.com/@datatutorials1 LinkedIn: click here to follow
-Developed by: Swapnjeet S (Lead Data Analyst, 10.5 yrs Exp.) My website: https://topmate.io/data_tutorials
-Calendar View
+
+***Calendar View***
 •Engagements are mapped to days in June.
 •Certain dates (like 19th–21st, 25th–27th) show higher highlights. Campaign activity peaks on specific days, possibly due to launches/promotions.
 Insight: Weekly promotions/events significantly drive engagement.
