@@ -89,7 +89,7 @@ To help the marketing team:
 ---
 
 ## 💡 Author
-**[Bhagyashree Dahima]**  
+**Bhagyashree Dahima**  
 📧 [dahimabhagyashree02@gmail.com]  
 💼 [https://www.linkedin.com/in/bhagyashree-dahima-337282291/]  
 📍 Data Analyst | Power BI Developer | Marketing Analytics Enthusiast  
